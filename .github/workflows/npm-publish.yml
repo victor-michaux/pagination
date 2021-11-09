@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: 14
           registry-url: https://registry.npmjs.org/
-          scope: '@octocat'
+          scope: '@victor-michaux'
       - run: yarn
       - run: yarn publish
         env:
