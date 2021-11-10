@@ -1,7 +1,7 @@
 /* eslint no-underscore-dangle: "off" */
 type ActivePageChangeCallbackType = (activePage: number) => void;
 
-export class Paginator {
+export class Pagination {
     private _activePage: number;
 
     private _totalPages: number;
@@ -117,4 +117,4 @@ export class Paginator {
     }
 }
 
-export default Paginator;
+export default Pagination;
