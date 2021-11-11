@@ -1,6 +1,6 @@
 {
   "name": "@victor-michaux/pagination",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "files": ["dist"],
   "main": "./dist/pagination.umd.js",
   "module": "./dist/pagination.es.js",
